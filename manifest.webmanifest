@@ -1,0 +1,15 @@
+{
+  "name": "기억력 버거가게",
+  "short_name": "버거가게",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a1a12",
+  "theme_color": "#2a1a12",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
